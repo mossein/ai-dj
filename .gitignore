@@ -1,0 +1,29 @@
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+# Caches
+stem_cache/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
+venv/
+
+# DJtransGAN (submodule / large)
+DJtransGAN/
+
+# Runtime files
+dj_commands.json
+dj_status.json
+dj_queue.json
+
+# Mix cache
+mix_cache.json
+
+# OS
+.DS_Store
